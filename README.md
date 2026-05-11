@@ -1,7 +1,7 @@
 📄 README.md (Copy Paste)
-# 🚀 Full Stack CRUD App (Node + Express + MongoDB + React)
 
-This is a simple full-stack CRUD application using:
+
+
 
 - Node.js
 - Express.js
