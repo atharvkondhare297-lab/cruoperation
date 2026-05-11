@@ -40,15 +40,16 @@ crud-app
 ```bash
 git clone <your-repo-link>
 cd crud-app
+
 2️⃣ Setup Backend
 cd backend
 npm install
-Start MongoDB
 
-Make sure MongoDB is running locally:
+//Start MongoDB
+//Make sure MongoDB is running locally:
 
 mongod
-Run backend server
+//Run backend server
 node server.js
 
 Backend runs on:
